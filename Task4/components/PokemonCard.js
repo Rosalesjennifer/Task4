@@ -97,7 +97,7 @@ const styles = StyleSheet.create({
         marginBottom: 16,
     },
     movesText:{
-        fonstSize: 25,
+        fontSize: 25,
         fontWeight: "bold",
     },
     weaknessContainer: {
